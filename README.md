@@ -71,7 +71,7 @@ function showMessage($call) {
 
  A function is said to be referential transparent when we can replace the function with its value without affecting the behaviour of the program. 
 
-**Lambda and Closures **
+**Lambda and Closures**
 This is part of the characteristics that makes it support functioning programming like using lambda or anonymous function which made it easy for function to be declared inside a class and to access the function, the **$this** is used, for example 
 
 ```php
@@ -85,7 +85,7 @@ class Example {
   }
 }
 ```
-
+**Closure**
 Closure is another characteristics in PHP functional programming; is an anonymous function that can access variables imported from the outside scope without using any global variables. Theoretically, a closure is a function with some arguments closed by the environment when it is defined. Closures can work around variable scope restrictions in a clean way.
 
 I will show you how closures is used to define a function to return a single filter function for `array_filter()`, out of a family of filter functions. 
