@@ -121,3 +121,9 @@ Array (
 
 **Recursion**
 Recursion is also an important aspect of functional programming, mostly in imperative programming, we use `for` and `foreach` when we want to `loop` through or manipulate an array.
+
+**Reference**
+
+- https://www.sitepoint.com/functional-programming-and-php/
+- https://www.liip.ch/en/blog/functional-programming-in-php
+
